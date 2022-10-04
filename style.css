@@ -108,6 +108,8 @@ body {
 
 .twitter{background:url(images/twitter2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:20px;float:left;}
 .linkedin{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
+.email{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
+.instagram{background:url(images/linkedin2x.png) no-repeat; width:22px; height:22px;background-size:22px 22px;margin-right:10px;float:left;}
 
 .social {border:0;}
 .social:hover {opacity:.5;border:0;}
